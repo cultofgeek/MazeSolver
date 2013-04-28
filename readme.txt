@@ -1,0 +1,1 @@
+These are a bunch of miscellaneous code that I'm dumping here for the sake of posterity.  All of these are super ancient, and were written over a decade ago.  Anyone can use this code if they wish, but how useful any of this would really be is suspect.
